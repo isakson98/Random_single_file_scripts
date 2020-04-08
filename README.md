@@ -2,7 +2,7 @@
 From newest to oldest
 
 - trading_view_delete_drawings.py -> script to delete all drawings done on a front TradingView Layout.
-For some reason, I could not find on option to delete all of them at once, and I had about drawings on roughly 
+For some reason, I could not find on option to delete all of them at once, and I had drawings on roughly 
 500 different tickers, and did not want to click 500 times.
 Requires a Chrome Driver 
 
