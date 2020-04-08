@@ -12,7 +12,7 @@ Link to the dataset taken from Kaggle
 https://www.kaggle.com/carrie1/dallaspolicereportedincidents 
 
 
--TradingPlatform_to_Trader_vue-master -> first attempt at Python. Is is a script used convert data from my trading platform 
+- TradingPlatform_to_Trader_vue-master -> first attempt at Python. Is is a script used convert data from my trading platform 
 into a csv format.
 
 
