@@ -1,6 +1,8 @@
 # Single_file_scripts
 From newest to oldest
 
+-w_socket_client_FH.py -> small practice script that streams data using a synchronous client web socket 
+
 - trading_view_delete_drawings.py -> script to delete all drawings done on a front TradingView Layout.
 For some reason, I could not find on option to delete all of them at once, and I had drawings on roughly 
 500 different tickers, and did not want to click 500 times.
